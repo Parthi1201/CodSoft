@@ -7,8 +7,11 @@
 
 **Key Focus Areas**
 **Java Programming**: Strengthening core Java concepts.
+
 **Problem-Solving**: ATackling complex coding challenges, optimizing solutions, and enhancing algorithmic thinking.
+
 **Project Development**: Building Java applications, following best practices.
+
 **Version Control**: Collaborating using GitHub for project management and code versioning.
 
 **Learning Outcomes**
