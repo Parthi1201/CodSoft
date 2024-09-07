@@ -6,10 +6,10 @@
   This 4-week internship is designed to enhance my understanding of Java programming through hands-on experience. It is an educational opportunity aimed at learning new technologies, improving coding techniques, and solving real-world programming challenges.
 
 **Key Focus Areas**
-  **Java Programming**: Strengthening core Java concepts.
-  **Problem-Solving**: ATackling complex coding challenges, optimizing solutions, and enhancing algorithmic thinking.
-  **Project Development**: Building Java applications, following best practices.
-  **Version Control**: Collaborating using GitHub for project management and code versioning.
+**Java Programming**: Strengthening core Java concepts.
+**Problem-Solving**: ATackling complex coding challenges, optimizing solutions, and enhancing algorithmic thinking.
+**Project Development**: Building Java applications, following best practices.
+**Version Control**: Collaborating using GitHub for project management and code versioning.
 
 **Learning Outcomes**
   1.Mastered key Java concepts like classes, interfaces, inheritance, and exception handling.
