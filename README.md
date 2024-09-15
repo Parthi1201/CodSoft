@@ -4,7 +4,7 @@
   Welcome to my GitHub repository for the "Java Programming" Virtual Internship with CodSoft, running from 25th August 2024 to 25th September 2024. This internship focuses on building my Java development skills, applying theoretical knowledge through practical tasks and real-world projects.
 
 
-**Internship Overview:**
+# **Internship Overview:**
   
   This 4-week internship is designed to enhance my understanding of Java programming through hands-on experience. It is an educational opportunity aimed at learning new technologies, improving coding techniques, and solving real-world programming challenges.
 
